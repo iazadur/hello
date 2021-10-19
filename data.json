@@ -135,7 +135,34 @@
             "img":"https://i.ibb.co/tCygdg9/service-2.png"
 
         }
+    ],
+    "review":[
+        {
+            "id":"01",
+            "name":"Md Azadur Rahman",
+            "img":"https://i.ibb.co/HxWkd0G/student-1.png",
+            "rating":"4.5",
+            "saying":"the club is very helful for us, stay with 3 months here,overall very good"
+        },
+        {
+            "id":"02",
+            "name":"Alfamin Alo",
+            "img":"https://i.ibb.co/PY9g08k/student-2.png",
+            "rating":"3.5",
+            "saying":"Hi, i am Alfamin, 3 months ago i start journey with gym club and now i get fully fitnessBody"
+        },
+        {
+            "id":"03",
+            "name":"Zunayed",
+            "img":"https://i.ibb.co/DLcS4yX/student-3.png",
+            "rating":"4.9",
+            "saying":"I am higly recomended, you can get 6 pack body when you are regularly attended the classes"
+        }
     ]
+
+    
+
+
     
 }
 
