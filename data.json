@@ -110,18 +110,18 @@
         },
         {
             "id":"05",
-            "name":"FOR MEN",
-            "desc":"Better way to be strong and healthy.",
-            "price":"30",
+            "name":"Dance Courses",
+            "desc":"A Better way to track workouts.",
+            "price":"25",
             "color":"#0CAE74",
             "img":"https://i.ibb.co/XVgJXL2/service-1.png"
 
         },
         {
             "id":"06",
-            "name":"FOR MEN",
-            "desc":"Better way to be strong and healthy.",
-            "price":"30",
+            "name":"Yoga Classes",
+            "desc":"A Better way to track workouts.",
+            "price":"40",
             "color":"#DD246E",
             "img":"https://i.ibb.co/WB7n3cf/service-3.png"
 
