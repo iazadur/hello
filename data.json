@@ -179,5 +179,22 @@
             "desc":"WITH A 1-YEAR COMMITMENT WE OFFER MONTHLY MEMBERSHIP FOR ONLY $59. WHEN YOU PRE-PURCHASE A COMPLETE YEAR INDIVIDUAL MEMBERSHIP YOU GET 2/M FREE EXTENTION.",
             "price":"59/per Year"
         }
+    ],
+    "contact":[
+        {
+            "id":"01",
+            "title":"Location",
+            "info":"Satkhira,Khulna,Bangladesh-9400"
+        },
+        {
+            "id":"02",
+            "title":"Email us",
+            "info":"iazadur@outlook.com"
+        },
+        {
+            "id":"03",
+            "title":"Call us",
+            "info":"+8801991666031"
+        }
     ]
 }
