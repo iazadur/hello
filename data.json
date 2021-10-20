@@ -157,5 +157,27 @@
             "rating": "4.9",
             "saying": "I am higly recomended, you can get 6 pack body when you are regularly attended the classes"
         }
+    ],
+    "membershipTitle":"MORE THAN A GYM MEMBERSHIP",
+    "memebershipDesc":"At F7 Fitness, membership not only gives you access to our clean and spacious gyms, it connects you with knowledgeable coaches and an uplifting community inside our gyms, at home and anywhere. We also make it easy to include friends and family, for extra inspiration on your journey to results.",
+    "membership":[
+        {
+            "id":"01",
+            "title":"One Day Pass",
+            "desc":"whether you're visiting GYM House on business or are Just taking YOur Personal Fitness one day at a time we'd like to invite you to expericence all that gym house has to offer",
+            "price":"15/per day"
+        },
+        {
+            "id":"02",
+            "title":"MONTH PASS",
+            "desc":"our monthly membership helps you to keep your fitness goals on track without a commitment of any kind, while still enjoying all of the amenities that gym house has to offer",
+            "price":"90/per Month"
+        },
+        {
+            "id":"03",
+            "title":"YEARLY PASS",
+            "desc":"WITH A 1-YEAR COMMITMENT WE OFFER MONTHLY MEMBERSHIP FOR ONLY $59. WHEN YOU PRE-PURCHASE A COMPLETE YEAR INDIVIDUAL MEMBERSHIP YOU GET 2/M FREE EXTENTION.",
+            "price":"59/per Year"
+        }
     ]
 }
