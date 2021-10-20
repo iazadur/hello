@@ -26,6 +26,7 @@
     "product": [
         {
             "id": "01",
+            "fade":"left",
             "name": "27.5 kg dumbells",
             "price": "18.50",
             "sortDesc": "Proactively fabricate one-to-one materials via effective e-business. Completely synergize scalable e-commerce rather than high standards in e-services.",
@@ -35,6 +36,7 @@
         },
         {
             "id": "02",
+            "fade":"right",
             "name": "Training backpack",
             "price": "28.00",
             "sortDesc": "Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures.",
@@ -44,6 +46,7 @@
         },
         {
             "id": "03",
+            "fade":"left",
             "name": "Light training shoes",
             "price": "22.00",
             "sortDesc": "Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking.",
@@ -53,6 +56,7 @@
         },
         {
             "id": "04",
+            "fade":"right",
             "name": "Yoga mat",
             "price": "8.00",
             "sortDesc": "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.",
@@ -62,6 +66,7 @@
         },
         {
             "id": "05",
+            "fade":"left",
             "name": "watch & app",
             "price": "24.00",
             "sortDesc": "Dynamically target high-payoff intellectual capital for customized technologies. Objectively integrate emerging core competencies before process-centric communities.",
@@ -71,6 +76,7 @@
         },
         {
             "id": "06",
+            "fade":"right",
             "name": "Dumbells & bottle / free towel",
             "price": "16.00",
             "sortDesc": "Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.",
